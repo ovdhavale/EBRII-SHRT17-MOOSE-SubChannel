@@ -1,0 +1,27 @@
+EBR-II SHRT-17 XX09 — MOOSE/SubChannel Part B
+
+Transient duration: 900 s
+Axial cells: 50
+
+Pre-transient TTC-31: 813.54 K
+Post-scram minimum TTC-31: 660.25 K
+Minimum time: 3.56 s
+
+MOOSE peak TTC-31: 883.09 K
+MOOSE peak time: 64.26 s
+
+Digitized experimental peak TTC-31: 892.12 K
+Digitized experimental peak time: 74.0 s
+
+Peak temperature error: -9.03 K
+Peak time error: -9.74 s
+
+TTC-31 validation MAE: 14.88 K
+TTC-31 validation RMSE: 17.65 K
+
+Final TTC-31 at 900 s: 696.57 K
+Final mass flow: 0.06353 kg/s
+Final assembly power: 5.94 kW
+
+Experimental measurements digitized from the published
+MOOSE SHRT-17 validation figure; values are not raw test data.
